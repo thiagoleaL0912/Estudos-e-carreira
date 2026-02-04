@@ -39,7 +39,7 @@ Começa a construção visual e conectividade.
 
     Metas: Construir sites simples e entender o fluxo de um projeto de software.
 
-    Status: Início da busca por vagas de estágio.
+  
 
 🔹 3º SEMESTRE — DADOS + ESTRUTURA (Nível Técnico)
 
@@ -54,7 +54,9 @@ O back-end ganha força. Aqui você vira um estagiário competitivo.
         CRUD completo (Create, Read, Update, Delete).
 
         Integração Código + Banco de Dados.
-
+        
+       Status: Início da busca por vagas de estágio.
+        
 🔹 4º SEMESTRE — PERFIL DE DESENVOLVEDOR (Mentalidade Profissional)
 
 Refinamento técnico e arquitetura.
